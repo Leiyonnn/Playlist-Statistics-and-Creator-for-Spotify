@@ -9,7 +9,7 @@ The app also allows users to **automatically create new playlists** based on spe
 
 ---
 
-##Key Features
+## Key Features
 
 - **OAuth 2.0 Authentication** — Secure Spotify login using `Spotipy` and session management via Flask.
 - **Playlist & Track Analysis** — Fetches all playlists, tracks, and associated artist data.
@@ -22,7 +22,7 @@ The app also allows users to **automatically create new playlists** based on spe
 
 ---
 
-##Why This Project?
+## Why This Project?
 
 This project was developed as a **data science showcase**, highlighting the following competencies:
 
@@ -35,7 +35,7 @@ This project was developed as a **data science showcase**, highlighting the foll
 
 ---
 
-##Setup Instructions
+## Setup Instructions
 Clone the repository
 Create a file named .env in the project’s root directory and add the following lines:
 
