@@ -1,4 +1,4 @@
-# 🎵 Spotify Genre Analyzer
+# Spotify Genre Analyzer
 
 ### A Data Science Project for Music Analytics and Playlist Generation
 
@@ -9,20 +9,20 @@ The app also allows users to **automatically create new playlists** based on spe
 
 ---
 
-## 🚀 Key Features
+##Key Features
 
-- 🔐 **OAuth 2.0 Authentication** — Secure Spotify login using `Spotipy` and session management via Flask.
-- 🎧 **Playlist & Track Analysis** — Fetches all playlists, tracks, and associated artist data.
-- 📊 **Genre Statistics Dashboard** — Displays real-time genre distribution through interactive **bar and pie charts** (powered by Chart.js).
-- 🧠 **Data-Driven Insights** — Shows number of playlists, tracks, unique artists, and genre diversity.
-- 🎼 **Genre-Based Playlist Creation** — Generate playlists automatically for any genre in your library.
-- 🔍 **Custom Genre Search** — Search for new tracks by genre and instantly build new Spotify playlists.
-- ⚡ **Caching System** — Reduces redundant API calls for efficient repeated analysis.
-- 🌐 **Responsive Web Interface** — Clean, modern UI with dynamic visuals and user feedback.
+- **OAuth 2.0 Authentication** — Secure Spotify login using `Spotipy` and session management via Flask.
+- **Playlist & Track Analysis** — Fetches all playlists, tracks, and associated artist data.
+- **Genre Statistics Dashboard** — Displays real-time genre distribution through interactive **bar and pie charts** (powered by Chart.js).
+- **Data-Driven Insights** — Shows number of playlists, tracks, unique artists, and genre diversity.
+- **Genre-Based Playlist Creation** — Generate playlists automatically for any genre in your library.
+- **Custom Genre Search** — Search for new tracks by genre and instantly build new Spotify playlists.
+- **Caching System** — Reduces redundant API calls for efficient repeated analysis.
+- **Responsive Web Interface** — Clean, modern UI with dynamic visuals and user feedback.
 
 ---
 
-## 🧠 Why This Project?
+##Why This Project?
 
 This project was developed as a **data science showcase**, highlighting the following competencies:
 
@@ -35,7 +35,7 @@ This project was developed as a **data science showcase**, highlighting the foll
 
 ---
 
-## ⚙️ Setup Instructions
+##Setup Instructions
 Clone the repository
 Create a file named .env in the project’s root directory and add the following lines:
 
